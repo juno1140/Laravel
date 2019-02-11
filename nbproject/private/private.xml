@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/kinoshita/app/Laravel/app/Board.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/config/database.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Http/Controllers/HelloController.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/migrations/2018_10_23_132624_create_boards_table.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/person/add.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/phpunit.xml</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/seeds/RestdataTableSeeder.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/hello/auth.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/layouts/helloapp.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/hello/session.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/routes/web.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/components/item.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/person/del.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Http/Controllers/BoardController.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Http/Controllers/RestappController.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/Unit/ExampleTest.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Person.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/person/edit.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/CreatesApplication.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/person/find.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/board/add.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/Browser/ExampleTest.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Scopes/ScopePerson.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/hello/add.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/hello/index.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Restdata.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/board/index.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/factories/UserFactory.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/app/Http/Controllers/PersonController.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/hello/rest.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/migrations/2018_10_24_154154_create_restdata_table.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/Feature/HelloTest.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/TestCase.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/migrations/2018_10_10_132800_create_people_table.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/config/session.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/rest/create.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/.env</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/seeds/PeopleTableSeeder.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/database/migrations/2018_10_30_132829_create_sessions_table.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/person/index.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/resources/views/vendor/pagination/simple-default.blade.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/DuskTestCase.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/Browser/LoginTest.php</file>
+            <file>file:/Users/kinoshita/app/Laravel/tests/Feature/ExampleTest.php</file>
+        </group>
+    </open-files>
+</project-private>
